@@ -1,6 +1,7 @@
 # Template Group
 
-> This repository provides more convenient functionality from the original template.
+> This repository is a collection of templates that I use. And we improve templates that are difficult to use.
+
 
 ---
 
