@@ -13,11 +13,9 @@ Answer : It was developed for more convenient and faster use. But it's a familia
 Answer : If there is any inconvenience with the template you are using, I will correct it and upload it right away.
 
 ## Current Situation
-|                      | iOS     | AI        | Design |
-|:--------------------:|:---------------:|:------------------:|:-----:|
-| People | 안지훈 | 신무결       | 안지훈 |
-| Language | Swift, RxSwift|  Python|||
-| Develop Tool     | Xcode  | Pytorch | Figma|
+|    Name    | date     | feacture        | 
+|:--------------------:|:---------------:|:------------------|
+| ReactorKit | 2022.04.29 | Existing Reactorkit makes it possible to set whether it is a code or a storyboard | 
 
 
 <details>
