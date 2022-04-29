@@ -28,3 +28,37 @@ Answer : If there is any inconvenience with the template you are using, I will c
 
 </div>
 </details>
+
+## installation
+
+`->` download this folder
+
+`->` Navigate to the template file you want
+
+`->` open template file in terminal
+
+`->` enter command **sh install_templates.sh**
+
+`->` and that's all ⭕️
+
+## Legacy way to set templates
+
+Open your `application` folder, find here your `xcode` 
+
+`->` show package contents
+
+`->` Contents
+
+`->` Developer
+
+`->` Library
+
+`->` Xcode
+
+`->` Templates
+
+`->` File Templates
+
+`->` Source
+
+After that, you'll find the template you want! 😎
