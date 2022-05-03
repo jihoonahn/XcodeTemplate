@@ -17,4 +17,4 @@ cp -R Presenter.xctemplate ~/Library/Developer/Xcode/Templates/File\ Templates/C
 cp -R Router.xctemplate ~/Library/Developer/Xcode/Templates/File\ Templates/Clean\ Swift
 cp -R Interactor.xctemplate ~/Library/Developer/Xcode/Templates/File\ Templates/Clean\ Swift
 cp -R View\ Controller.xctemplate ~/Library/Developer/Xcode/Templates/File\ Templates/Clean\ Swift
-cp -R Unit\ Tests.xctemplate.xctemplate ~/Library/Developer/Xcode/Templates/File\ Templates/Clean\ Swift
+cp -R Unit\ Tests.xctemplate ~/Library/Developer/Xcode/Templates/File\ Templates/Clean\ Swift
