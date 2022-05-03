@@ -19,17 +19,8 @@ Answer : If there is any inconvenience with the template you are using, I will c
 | ReactorKit | 2022.04.29 | Existing Reactorkit makes it possible to set whether it is a code or a storyboard | 
 | ModernRIBs or RIBs | 2022.04.29 | I made it possible to decide whether to use combine-based Modern RIBs or RxSwift-based RIBs | 
 | VIPER | 2022.04.29 | install_templates.sh file add | 
+| Clean Swift | 2022.05.03 | I made the use of clean swift easier and made it possible to determine whether worker function or view is dependent on clean swift. | 
 
-
-<details>
-<summary>Continue..</summary>
-<div markdown="1">       
-  <br/>
-
-- CleanSwift (by code)
-
-</div>
-</details>
 
 ## installation
 
