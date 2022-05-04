@@ -8,8 +8,7 @@ import os.log
 
 protocol ___VARIABLE_sceneName___SceneViewControllerInput: AnyObject {}
 
-typealias ___VARIABLE_sceneName___SceneViewControllerOutput
-    = ___VARIABLE_sceneName___SceneInteractorInput
+protocol ___VARIABLE_sceneName___SceneViewControllerOutput: AnyObject {}
 
 final class ___VARIABLE_sceneName___SceneViewController: UITableViewController {
     var interactor: ___VARIABLE_sceneName___SceneViewControllerOutput?

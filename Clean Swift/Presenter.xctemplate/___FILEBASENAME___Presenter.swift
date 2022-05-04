@@ -5,10 +5,8 @@
 
 import UIKit
 
-protocol ___VARIABLE_sceneName___ScenePresenterInput {}
-
-typealias ___VARIABLE_sceneName___ScenePresenterOutput
-    = ___VARIABLE_sceneName___SceneViewControllerInput
+typealias ___VARIABLE_sceneName___ScenePresenterInput = ___VARIABLE_sceneName___SceneInteractorOutput
+typealias ___VARIABLE_sceneName___ScenePresenterOutput = ___VARIABLE_sceneName___SceneViewControllerInput
 
 final class ___VARIABLE_sceneName___ScenePresenter {
     weak var viewController: ___VARIABLE_sceneName___ScenePresenterOutput?

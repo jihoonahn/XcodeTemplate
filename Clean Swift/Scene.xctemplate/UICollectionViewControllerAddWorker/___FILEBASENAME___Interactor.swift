@@ -5,10 +5,9 @@
 
 import Foundation
 
-protocol ___VARIABLE_sceneName___SceneInteractorInput {}
+typealias ___VARIABLE_sceneName___SceneInteractorInput = ___VARIABLE_sceneName___SceneViewControllerOutput
 
-typealias ___VARIABLE_sceneName___SceneInteractorOutput
-    = ___VARIABLE_sceneName___SceneInteractorInput
+protocol ___VARIABLE_sceneName___SceneInteractorOutput: AnyObject {}
 
 final class ___VARIABLE_sceneName___SceneInteractor {
     var presenter: ___VARIABLE_sceneName___ScenePresenterInput?
