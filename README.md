@@ -20,7 +20,7 @@ Answer : If there is any inconvenience with the template you are using, I will c
 | ModernRIBs or RIBs | 2022.04.29 | I made it possible to decide whether to use combine-based Modern RIBs or RxSwift-based RIBs | 
 | VIPER | 2022.04.29 | install_templates.sh file add | 
 | Clean Swift | 2022.05.03 | I made the use of clean swift easier and made it possible to determine whether worker function or view is dependent on clean swift. | 
-
+| SwiftLint | 2022.05.10 | To create SwiftLint files faster.swiftLint template. | 
 
 ## installation
 

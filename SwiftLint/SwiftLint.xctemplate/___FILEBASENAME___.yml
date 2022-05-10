@@ -1,0 +1,14 @@
+disabled_rules: #Default Rules에서 비활성화할 규칙
+
+
+opt_in_rules: #비활성화 되어있지만 활성화하고 싶은 규칙
+
+included: #SwiftLint 검사에서 포함할 파일 경로
+    #- ProjectName/Sources
+
+excluded: #SwiftLint 검사에서 제외할 파일 경로
+    #- Pods
+    #- Carthage
+    #- .build
+    #- ProjectName/AppDelegate.swift
+    #- ProjectName/SceneDelegate.swift
