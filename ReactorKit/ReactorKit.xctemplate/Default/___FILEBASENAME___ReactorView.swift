@@ -4,8 +4,11 @@ import Foundation
 import ReactorKit
 import RxSwift
 
-class ___FILEBASENAME___: Reactor {
+final class ___FILEBASENAME___: Reactor {
     
+    private let disposeBag: DisposeBag = .init()
+    
+    //MARK: - Reactor
     enum Action {
         // actiom cases
     }
@@ -23,17 +26,23 @@ class ___FILEBASENAME___: Reactor {
     init() {
         // init state initialState = State(...)
     }
-    
+
+}
+
+//MARK: - Mutate
+extension ___FILEBASENAME___ {
     func mutate(action: Action) -> Observable<Mutation> {
         // switch action {
         // }
     }
-    
+}
+
+//MARK: - reduce
+extension ___FILEBASENAME___ {
     func reduce(state: State, mutation: Mutation) -> State {
         var newState = state
         // switch mutation {
         // }
         return newState
     }
-    
 }

@@ -12,7 +12,7 @@ final class ___FILEBASENAME___: UIViewController, StoryboardView {
         super.viewDidLoad()
     }
 
-    func bind(reactor: ViewController.Reactor) {
+    func bind(reactor: ___VARIABLE_productName___ReactorView) {
         //binding here
     }
     
