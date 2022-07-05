@@ -3,11 +3,14 @@
 import Foundation
 import ReactorKit
 import RxSwift
+import RxRelay
+import RxFlow
 
-final class ___FILEBASENAME___: Reactor {
+final class ___FILEBASENAME___: Reactor , Stepper{
     
     private let disposeBag: DisposeBag = .init()
-    
+    var steps: PublishRelay<Step> = .init()
+
     //MARK: - Reactor
     enum Action {
         // actiom cases
@@ -24,7 +27,7 @@ final class ___FILEBASENAME___: Reactor {
     let initialState: State
     
     init() {
-        // init state initialState = State(...)
+        self.initialState = State()
     }
 
 }

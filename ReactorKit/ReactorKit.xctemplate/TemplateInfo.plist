@@ -50,6 +50,22 @@
 			<key>NotPersisted</key>
 			<string>true</string>
 		</dict>
+		<dict>
+			<key>Identifier</key>
+			<string>RxFlow</string>
+			<key>Required</key>
+			<string>true</string>
+			<key>Name</key>
+			<string>Add RxFlow</string>
+			<key>Description</key>
+			<string>Whether this Reactor contains a corresponding view with RxFlow</string>
+			<key>Type</key>
+			<string>checkbox</string>
+			<key>Default</key>
+			<string>true</string>
+			<key>NotPersisted</key>
+			<string>true</string>
+		</dict>
 	</array>
 </dict>
 </plist>
