@@ -21,6 +21,7 @@ Answer : If there is any inconvenience with the template you are using, I will c
 | VIPER | 2022.04.29 | install_templates.sh file add | 
 | Clean Swift | 2022.05.03 | I made the use of clean swift easier and made it possible to determine whether worker function or view is dependent on clean swift. | 
 | SwiftLint | 2022.05.10 | To create SwiftLint files faster.swiftLint template. | 
+| OneWay | 2022.07.10 | OneWay template, NSViewController, UIViewController, SwiftUI View support | 
 
 ## installation
 
