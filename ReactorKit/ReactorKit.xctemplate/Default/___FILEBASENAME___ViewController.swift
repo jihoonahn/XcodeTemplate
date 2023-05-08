@@ -4,10 +4,10 @@ import UIKit
 import ReactorKit
 import RxSwift
 
-final class ___FILEBASENAME___: UIViewController{
-    
+final class ___FILEBASENAME___: UIViewController {
+
     var disposeBag: DisposeBag = DisposeBag()
-    
+
     override func viewDidLoad() {
         super.viewDidLoad()
     }
@@ -15,5 +15,4 @@ final class ___FILEBASENAME___: UIViewController{
     func bind(reactor: ___VARIABLE_productName___Reactor) {
         //binding here
     }
-    
 }

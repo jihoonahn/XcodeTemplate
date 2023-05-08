@@ -3,15 +3,15 @@
 import Cocoa
 import Combine
 
-final class ___FILEBASENAME___: NSViewController{
+final class ___FILEBASENAME___: NSViewController {
     typealias Action = ___VARIABLE_productName___Way.Action
     
-    //MARK: - Propeties
+    // MARK: - Propeties
     
     private let way: ___VARIABLE_productName___Way
     private var cancellables = Set<AnyCancellable>()
     
-    //MARK: - Init
+    // MARK: - Init
     init(way : ___VARIABLE_productName___Way) {
         self.way = way
         super.init(nibName: nil, bundle: nil)
@@ -21,7 +21,7 @@ final class ___FILEBASENAME___: NSViewController{
         fatalError("init(coder:) has not been implemented")
     }
     
-    //MARK: - ViewDidLoad
+    // MARK: - ViewDidLoad
     override func viewDidLoad() {
         super.viewDidLoad()
     }

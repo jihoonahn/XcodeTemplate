@@ -3,21 +3,19 @@
 import SwiftUI
 import Combine
 
-final class ___FILEBASENAME___: View{
+final class ___FILEBASENAME___: View {
     typealias Action = ___VARIABLE_productName___Way.Action
-    
-    //MARK: - Propeties
-    
+
+    // MARK: - Propeties
+
     private let way: ___VARIABLE_productName___Way
     private var cancellables = Set<AnyCancellable>()
-    
-    //MARK: - Init
+
+    // MARK: - Init
     init(way : ___VARIABLE_productName___Way) {
         self.way = way
     }
-    
-    //MARK: - View
-    var body: some View {
 
-    }
+    // MARK: - View
+    var body: some View {}
 }
